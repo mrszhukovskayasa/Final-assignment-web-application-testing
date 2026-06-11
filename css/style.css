@@ -5,7 +5,7 @@
 body {
 	width: 100%;
 	margin: 0px;
-	background-image: url(../img/bg.jpg);
+	background-image: url(../img/background.jpg);
 	background-repeat: repeat-y no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -14,7 +14,7 @@ body {
 
 .icons>a {
 	text-decoration: none;
-	color: darkgray;
+	color: rgba(255, 255, 255, 0.649);
 }
 
 .location>a {
@@ -53,7 +53,7 @@ body {
 	.name {
 		text-align: center;
 		font-size: 2.8em;
-		color: gainsboro;
+		color: rgb(237, 126, 126);
 		margin-top: 15%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -67,7 +67,7 @@ body {
 	.subtitle {
 		text-align: center;
 		font-size: 1.5em;
-		color: darkgray;
+		color: rgb(255, 0, 0);
 	}
 	.icons {
 		font-size: 18px;
@@ -82,7 +82,7 @@ body {
 		color: white;
 		font-size: 1.5em;
 		display: block;
-		background-color: rgba(175,133,255,1);
+		background-color: rgb(237, 77, 74);
 		padding: 10px;
 		margin-left: 7%;
 		margin-right: 7%;
@@ -127,7 +127,7 @@ body {
 		padding-left: 4px;
 		text-align: center;
 		font-size: 2.5em;
-		color: gainsboro;
+		color: rgba(253, 100, 100, 0.826);
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -150,7 +150,7 @@ body {
 		color: white;
 		font-size: 0.8em;
 		display: block;
-		background-color: rgba(175,133,255,1);
+		background-color: rgb(242, 91, 91);
 		padding: 10px;
 		margin-left: 7%;
 		margin-right: 7%;
@@ -195,7 +195,7 @@ body {
 		padding-left: 4px;
 		text-align: center;
 		font-size: 2.8em;
-		color: gainsboro;
+		color: rgb(217, 106, 106);
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -210,7 +210,7 @@ body {
 		text-align: center;
 		margin-right: 0px;
 		margin-left: 0px;
-		color: darkgray;
+		color: rgb(249, 0, 0);
 		margin-bottom: 40px;
 	}
 	.location {
@@ -218,7 +218,7 @@ body {
 		color: white;
 		font-size: 1.5em;
 		display: block;
-		background-color: rgba(175,133,255,1);
+		background-color: rgb(241, 21, 21);
 		padding: 10px;
 		margin-left: 7%;
 		margin-right: 7%;
@@ -261,7 +261,7 @@ body {
 	.name {
 		text-align: center;
 		font-size: 2.5em;
-		color: gainsboro;
+		color: rgb(230, 105, 105);
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -269,7 +269,7 @@ body {
 	.subtitle {
 		text-align: center;
 		font-size: 2em;
-		color: darkgray;
+		color: rgb(216, 20, 20);
 	}
 	.icons {
 		font-size: 15px;
@@ -296,6 +296,6 @@ body {
 /*---------- Responsive Grid Ends ---------------*/
 footer {
 	text-align: center;
-	color: white;
+	color: rgb(233, 98, 98);
 	font-size: 1.2em
 }
